@@ -1,0 +1,32 @@
+.inputBox {
+    -webkit-appearance: none;
+    background: #0000;
+    border-width: 1px;
+    border-style: solid;
+    box-sizing: border-box;
+    color: #2e2f32;
+    flex: 1 1 auto;
+    font-family: Bogle, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    margin: 0;
+    min-width: 0;
+}
+
+.background-blue {
+    background-color: #1784ea;
+}
+
+.background-blue:hover {
+    background-color: #004F9A;
+    border-radius: 9999px; 
+}
+
+.background-blue:active {
+    background-color: black;
+    border-radius: 9999px; 
+}
+
+.fontWeight {
+    font-weight: lighter;
+    font-size: 1rem;
+}
