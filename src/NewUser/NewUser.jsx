@@ -36,7 +36,7 @@ const NewUser = () => {
             </div>
             <div className='flex flex-col mt-5 -ml-5'>
                 <p className='fontWeight mx-auto my-0 text-center '>Securing your personal information is our priority.</p>
-                <p className='fontWeight mx-auto my-0 text-left float-left '>See our privacy measures.</p>
+                <p className='fontWeight mx-auto my-0 text-left float-left mb-28 '>See our privacy measures.</p>
             </div>
         </>
     );
